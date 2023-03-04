@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MessageEditor.qml</file>
+        <file>MessageItem.qml</file>
+        <file>PageHeader.qml</file>
+    </qresource>
+</RCC>
